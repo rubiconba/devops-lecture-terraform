@@ -31,5 +31,5 @@ terraform plan
 terraform apply
 ```
 
-After executing the apply command you will be get a prompt that will ask if you want to create it, enter `yes`. 
+After executing the apply command you will get a prompt that will ask if you want to create it, enter `yes`. 
 
